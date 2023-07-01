@@ -1,0 +1,7 @@
+{
+  "name": "testRemoteConfig",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
